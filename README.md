@@ -43,6 +43,19 @@
 
 ---
 
+## 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO_AQUI">
+    <img src="https://github-readme-stats.vercel.app/api?username=RafaelFleitas&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Rafael" height="180" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO_AQUI">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFleitas&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="180" />
+  </a>
+</div>
+
+---
+
 ### 📫 Contato
 
 - **LinkedIn:** [linkedin.com/in/rafaellaeber](https://www.linkedin.com/in/rafaellaeber/)
