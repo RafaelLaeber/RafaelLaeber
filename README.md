@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Rafael%20Fleitas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Bacharel%20em%20F%C3%ADsica&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Rafael%20Fleitas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Physics%20Graduate&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+com+Java%2C+Spring+Boot%2C+Go+e+PHP;Frontend+com+Angular;Pensando+como+F%C3%ADsico%2C+programando+como+Engenheiro" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+with+Java%2C+Spring+Boot%2C+Go+and+PHP;Frontend+with+Angular;Thinking+like+a+Physicist%2C+coding+like+an+Engineer" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-- 💼 Desenvolvedor de software, atuando com **Java / Spring Boot**, **Go** e **PHP / Laravel** no backend — as três stacks fazem parte do meu dia a dia — além de **Angular** no frontend.
-- 🎓 Formado em **Física**, trazendo uma base analítica e matemática sólida para a resolução de problemas complexos de software.
-- 🧰 Uso **Git/GitHub** e **GitLab** no dia a dia para versionamento e colaboração em equipe.
-- 🌐 Gosto de construir sistemas eficientes, do backend à interface, sempre buscando código limpo e bem arquitetado.
-- ⚡ Sempre aprendendo algo novo — hoje é dia de explorar mais sobre arquitetura de software e boas práticas.
+- 💼 Software developer, working with **Java / Spring Boot**, **Go**, and **PHP / Laravel** on the backend — all three stacks are part of my daily work — plus **Angular** on the frontend.
+- 🎓 Graduated in **Physics**, bringing a strong analytical and mathematical foundation to solving complex software problems.
+- 🧰 Using **Git/GitHub** and **GitLab** daily for version control and team collaboration.
+- 🌐 I enjoy building efficient systems, from backend to interface, always aiming for clean, well-architected code.
+- ⚡ Always learning something new — today it's about diving deeper into software architecture and best practices.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -42,14 +42,14 @@
 
 <br><br>
 
-**Dados & Lógica Científica**
+**Data & Scientific Computing**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white">
 
 <br><br>
 
-**Versionamento & Deploy**
+**Version Control & Deployment**
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -71,7 +71,7 @@
 
 ---
 
-## 📫 Vamos nos conectar
+## 📫 Let's Connect
 
 <div align="center">
 
