@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RafaelFleitas/RafaelFleitas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RafaelLaeber/RafaelFleitas/output/snake.svg" alt="Snake animation" />
 
 </div>
 
