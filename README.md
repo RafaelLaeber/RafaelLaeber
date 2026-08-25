@@ -60,15 +60,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Graph
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelLaeber&theme=tokyonight&hide_border=true" height="180" />
+
+<img src="https://raw.githubusercontent.com/RafaelFleitas/RafaelFleitas/output/snake.svg" alt="Snake animation" />
 
 </div>
-
----
 
 ## 📫 Let's Connect
 
