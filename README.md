@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Software developer, working with **Java / Spring Boot**, **Go**, and **PHP / Laravel** on the backend — all three stacks are part of my daily work — plus **Angular** on the frontend.
-- 🎓 Graduated in **Physics**, bringing a strong analytical and mathematical foundation to solving complex software problems.
-- 🧰 Using **Git/GitHub** and **GitLab** daily for version control and team collaboration.
+- 💼 Software developer, working with **Go** and **PHP / Laravel** on the backend — all three stacks are part of my daily work — plus **Angular** on the frontend.
+- 🎓 bachelor's of Science in **Physics**, bringing a strong analytical and mathematical foundation to solving complex software problems.
+- 🧰 Using **Git** daily for version control and team collaboration with **GitHub** and **GitLab** repositories.
 - 🌐 I enjoy building efficient systems, from backend to interface, always aiming for clean, well-architected code.
 - ⚡ Always learning something new — today it's about diving deeper into software architecture and best practices.
 
@@ -24,12 +24,9 @@
 
 **Backend**
 <br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 
 <br><br>
 
@@ -54,7 +51,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 </div>
 
