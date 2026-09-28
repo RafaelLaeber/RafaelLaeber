@@ -1,85 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Rafael%20Laeber&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Physics%20Graduate&descAlignY=58&descSize=18" width="100%"/>
+# Rafael Laeber
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+with+Go+and+PHP;Frontend+with+Angular;Thinking+like+a+Physicist%2C+coding+like+an+Engineer" alt="Typing SVG" />
+**Software Developer · AI Engineering**
+Building production software with Go, Laravel and modern web stacks, with a focus on LLM applications and AI agents.
 
-</div>
+<a href="https://www.linkedin.com/in/rafaellaeber/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rafaelportugallaeber@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Open_to-Remote_%7C_Relocation-0f172a?style=flat-square" />
 
-<br>
-
-## 👨‍💻 About Me
-
-- 💼 Software developer, working with **Go** and **PHP / Laravel** on the backend — all three stacks are part of my daily work — plus **Angular** on the frontend.
-- 🎓 bachelor's of Science in **Physics**, bringing a strong analytical and mathematical foundation to solving complex software problems.
-- 🧰 Using **Git** daily for version control and team collaboration with **GitHub** and **GitLab** repositories.
-- 🌐 I enjoy building efficient systems, from backend to interface, always aiming for clean, well-architected code.
-- ⚡ Always learning something new — today it's about diving deeper into software architecture and best practices.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-**Backend**
-<br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-
-<br><br>
-
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<br><br>
-
-**Data & Scientific Computing**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white">
-
-<br><br>
-
-**Version Control & Deployment**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+<sub><a href="mailto:rafaelportugallaeber@gmail.com">rafaelportugallaeber@gmail.com</a></sub>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+```go
+type Engineer struct {
+	Name      string
+	Role      string
+	Education []string
+	Stack     map[string][]string
+	Focus     []string
+	OpenTo    []string
+}
+
+var rafael = Engineer{
+	Name: "Rafael Laeber",
+	Role: "Software Developer",
+	Education: []string{
+		"B.Sc. Physics — UFMT",
+		"Postgraduate in AI Engineering, Machine Learning & Deep Learning — Infnet (in progress)",
+	},
+	Stack: map[string][]string{
+		"backend":  {"Go", "PHP/Laravel", "NestJS"},
+		"frontend": {"Angular", "React", "TypeScript"},
+		"data":     {"PostgreSQL", "MariaDB", "Redis"},
+		"ai":       {"Python", "NumPy", "Claude API"},
+		"infra":    {"Docker", "Git", "GitLab"},
+	},
+	Focus:  []string{"LLM applications", "AI agents", "AI governance (ISO/IEC 42001)"},
+	OpenTo: []string{"AI Engineer roles", "North America", "Europe", "Remote"},
+}
+```
+
+## What I do
+
+- **Backend** — APIs and services in Go and Laravel, with microservices architectures, PostgreSQL, Redis and Docker.
+- **Frontend** — Angular and React applications built with TypeScript.
+- **AI engineering** — LLM applications and agent architectures, grounded in Anthropic, Google and Databricks certifications and formal study in ML and deep learning.
+
+## Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,nestjs,python&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,tailwind&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,gitlab,linux&theme=dark" />
+</p>
+
+## Certifications
+
+| AI & Machine Learning | Agile & Delivery |
+|---|---|
+| Claude Certified Architect – Foundations · *Anthropic* | Professional Scrum Master I (PSM I) · *Scrum.org* |
+| Claude Certified Developer – Foundations · *Anthropic* | Professional Scrum Product Owner I (PSPO I) · *Scrum.org* |
+| Google AI Professional Certificate · *Google* | |
+| Generative AI Fundamentals · AI Agent Fundamentals · *Databricks* | |
+| ISO/IEC 42001 Foundation (AI Governance) | |
+
+## Why physics?
+
+Physics trained me to model systems, reason about uncertainty and trust measurements over intuition — the same habits that matter when evaluating ML models or debugging a distributed system.
+
+---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/RafaelLaeber/RafaelFleitas/output/snake.svg" alt="Snake animation" />
-
+<sub>Based in Cuiabá, Brazil · UTC−4</sub>
 </div>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rafaellaeber/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rafaelportugallaeber@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/RafaelFleitas" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
